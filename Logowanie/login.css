@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(34, 34, 34);
+}
+
+.Okienko{
+    position: absolute;
+    width: 1000px;
+    height: 200px;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -500px;
+    border-radius: 15px;
+    background-color: rgb(57, 101, 112);
+}
+
+.haslo{
+position: relative;
+height:150px;
+width: 900px;
+top: 10%;
+left: 1%;
+text-size-adjust: 50px;
+background-color: rgb(122, 141, 146);
+font-size: 5cm;
+border-radius: 25px;
+}
+
+.check{
+    box-shadow: none;
+    border-color: rgb(57, 101, 112);
+    background-color: rgb(1, 133, 167);
+    position: relative;
+    left: 1.5%;
+    top: -20%;
+    height:150px;
+    width: 60px;
+    font-family:'Courier New', Courier, monospace;
+    border-radius: 25px;
+
+}
+
+.Token{
+position: relative;
+top: 150px;
+color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: xx-large;
+}
